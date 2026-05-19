@@ -1,4 +1,4 @@
-# The Next Level: Prediciendo el Futuro del Gaming con IA 🎮📊
+# The Next Level: Prediciendo el Futuro del Gaming con IA 
 
 Este proyecto es el resultado de la integración de conocimientos de diversas materias del semestre en la carrera de **Inteligencia Artificial y Ciencia de Datos** en **CUGDL**. El objetivo es analizar el mercado global de videojuegos y predecir tendencias de éxito utilizando Machine Learning.
 
